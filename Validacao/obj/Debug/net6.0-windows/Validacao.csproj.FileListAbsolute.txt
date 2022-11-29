@@ -1,0 +1,17 @@
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\bin\Debug\net6.0-windows\Validacao.exe
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\bin\Debug\net6.0-windows\Validacao.deps.json
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\bin\Debug\net6.0-windows\Validacao.runtimeconfig.json
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\bin\Debug\net6.0-windows\Validacao.dll
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\bin\Debug\net6.0-windows\Validacao.pdb
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\obj\Debug\net6.0-windows\Validacao.csproj.AssemblyReference.cache
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\obj\Debug\net6.0-windows\Validacao.Form1.resources
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\obj\Debug\net6.0-windows\Validacao.csproj.GenerateResource.cache
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\obj\Debug\net6.0-windows\Validacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\obj\Debug\net6.0-windows\Validacao.AssemblyInfoInputs.cache
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\obj\Debug\net6.0-windows\Validacao.AssemblyInfo.cs
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\obj\Debug\net6.0-windows\Validacao.csproj.CoreCompileInputs.cache
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\obj\Debug\net6.0-windows\Validacao.dll
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\obj\Debug\net6.0-windows\refint\Validacao.dll
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\obj\Debug\net6.0-windows\Validacao.pdb
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\obj\Debug\net6.0-windows\Validacao.genruntimeconfig.cache
+C:\Users\GabrielPassarin\Desktop\Validacao\Validacao\obj\Debug\net6.0-windows\ref\Validacao.dll
