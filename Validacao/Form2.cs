@@ -10,21 +10,26 @@ using System.Windows.Forms;
 
 namespace Validacao
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void Form2_Load(object sender, EventArgs e)
         {
 
-        }
-        private void btnCadastro_Click(object sender, EventArgs e)
+       }
+        private void btnValidar_Click(object sender, EventArgs e)
         {
-            Form2 i = new Form2();
+            Inicio2 i = new Inicio2();
             i.Show();
+        }
+
+        private void maskedTextBox3_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
         }
     }
 }
